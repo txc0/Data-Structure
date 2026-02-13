@@ -1,1 +1,9 @@
-10 
+=== Testing with odd number of nodes ===
+Linked List: 10 20 30 40 50 
+Middle value (odd length): 30
+Middle values (even length): 20 and 30
+
+=== Testing with even number of nodes ===
+Linked List: 10 20 30 40 
+Middle values (even length): 20 and 30
+Middle value (odd length): 30
